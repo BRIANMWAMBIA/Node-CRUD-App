@@ -1,8 +1,8 @@
 # Products RESTful services
 
 It is a vanilla node.js, no framework CRUD operation project.
-Using a json file as a database. An array of products.
-Using nodemon to start our server for development
+Using a json file as a database(An array of products).
+Using nodemon to start our server and wait for changes in development
 Using uuidv4 to generate unique id for new product
 
 # Skills acquired
