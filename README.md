@@ -14,7 +14,7 @@ Using uuidv4 to generate unique id for new product
 5.learnt how to create route handler using vanilla node.js
 6.practuced with http methods, status code, req and res
 7.learnt how to use node.js file System module to write to a file
-8.learnt how to generate unique id using the uuidv4 module
+8.learntt how to generate unique id using the uuidv4 module
 
 # To run the code
 
